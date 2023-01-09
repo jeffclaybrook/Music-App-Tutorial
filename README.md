@@ -7,6 +7,7 @@ Build a simple music app with HTML, CSS, and JavaScript
 - Vanilla JavaScript with arrow functions
 
 ### Demo link:
+https://jeffclaybrook.github.io/Music-App-Tutorial/
 
 ### Overview
 In this tutorial, you'll create a simple music application using HTML, CSS, and JavaScript.
@@ -17,6 +18,12 @@ In this tutorial, you'll create a simple music application using HTML, CSS, and 
 - Skip to previous song
 - Seek song
 - Expand / Collapse player
+
+### Roboto Flex Stylesheet link:
+https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,400;8..144,500;8..144,600&display=swap
+
+### Material Symbols Stylesheet link:
+https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
 
 ### Data Array Objects Format
 const data = [
